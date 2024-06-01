@@ -5,3 +5,5 @@ Tarefa:
 Resultado:
 
 ![Braço Robótico](https://github.com/rngneto/Braco-RoboticoOpenGL-Computacao-Grafica/assets/139978998/26b8908d-6388-4f79-8228-6a8497b9d618)
+
+Para executar este arquivo, leia "Requisitos.txt" e baixe o conteúdo necessário.
